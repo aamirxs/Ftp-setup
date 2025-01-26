@@ -36,7 +36,7 @@ This comprehensive bash script automates the installation and configuration of a
 
 ### 1. Download the Script
 ```bash
-wget https://your-repository/advanced_ftp_install.sh
+wget https://github.com/aamirxs/Ftp-setup/advanced_ftp_install.sh
 ```
 
 ### 2. Make Executable
